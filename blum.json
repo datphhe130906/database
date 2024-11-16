@@ -8,56 +8,6 @@
   "skipTasks": [
     "39391eb2-f031-4954-bd8a-e7aecbb1f192"
   ],
-  "ref": "bvraf9ErDI",
-  "tasks": [
-     {
-        "url": "https://blum-server11.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server12.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server13.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server14.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server15.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server16.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server17.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server18.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server19.vercel.app/api/",
-        "status": 1
-      },
-      {
-        "url": "https://blum-server20.vercel.app/api/",
-        "status": 1
-      }
-    ],
-    "free": [
-      {
-        "url": "https://blum-free-1.vercel.app/api/",
-        "status": 1
-      }
-    ]
-  },
   "payloadServer": [],
   "tasks": [
     {
